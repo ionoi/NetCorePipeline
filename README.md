@@ -1,0 +1,2 @@
+# NetCorePipeline
+.NetCore Pipeline
